@@ -1,0 +1,27 @@
+{
+    "name": "esieafront",
+    "version": "1.0.0",
+    "description": "Ce projet contient le code de la partie Front du projet Stock Car. Il est composé de code HTML, CSS et JavaScript intéragissant avec la partie Back.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BriceRsl/esieaFront.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/BriceRsl/esieaFront/issues"
+    },
+    "homepage": "https://github.com/BriceRsl/esieaFront#readme",
+    "devDependencies": {
+        "@testing-library/jest-dom": "^6.1.5",
+        "cypress": "^13.6.0",
+        "jest": "^29.7.0",
+        "jest-environment-jsdom": "^29.7.0",
+        "jsdom": "^23.0.1"
+    }
+}
